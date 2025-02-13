@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+h2{
+    color: rgb(5, 121, 216);
+    background-color: blanchedalmond;
+    margin: 50px;
+}
+*{
+    box-sizing: border-box;
+    -webkitk-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+.cal{
+    width: 400px;
+    margin: 60px;
+    height: auto;
+    background-color: rgb(134, 163, 62);
+    padding: 15px;
+}
+.box{
+    width: 370px;
+    padding: 15px;
+    margin-top: 10px;
+    border-radius: 15px;
+    background-color: rgb(202, 220, 214);
+}
+.butt{
+    width: 88px;
+    padding: 15px;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 15px;
+    background-color: rgb(210, 167, 195);
+
+}
+
